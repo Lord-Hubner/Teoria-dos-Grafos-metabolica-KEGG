@@ -1,4 +1,4 @@
-#Teoria dos Grafos - Rede metabólica com KEGG
+# Teoria dos Grafos - Rede metabólica com KEGG
 
 Este trabalho trata da criação de grafos representando as informações metabólicas presentes para o *Echinops telfairi* no banco de dados KEGG, assim como computação e visualização de métricas que visam descrever esse tipo de grafo
 
